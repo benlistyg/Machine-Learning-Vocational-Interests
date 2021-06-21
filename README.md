@@ -3,9 +3,9 @@ Data, Code, and Replication Materials for Listyg et al.
 
 Run in the following order:
 
-- `College Major Pre-Processing.R`
+1) `College Major Pre-Processing.R`
 
-- `study1.R`
+2) `study1.R`
 
-- `study2.R`
+3) `study2.R`
 
